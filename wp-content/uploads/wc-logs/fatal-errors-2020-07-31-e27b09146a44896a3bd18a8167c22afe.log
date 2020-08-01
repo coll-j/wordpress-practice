@@ -1,0 +1,12 @@
+2020-07-31T08:11:01+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\ocean-extra\includes\menu-icons\includes\library\icon-selector\includes\types\fas.php on line 7
+
+2020-07-31T08:12:39+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-admin\includes\post.php on line 20
+
+2020-07-31T08:14:42+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\ocean-extra\includes\shortcodes\shortcodes.php on line 11
+
+2020-07-31T08:14:43+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php on line 163
+
+2020-07-31T08:14:49+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Elements\Cta_Box.php on line 5
+
+2020-07-31T08:16:54+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\wpforms-lite\src\Tasks\Actions\EntryEmailsMetaCleanupTask.php on line 13
+
